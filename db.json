@@ -3,12 +3,12 @@
     {
       "Id": 0,
       "entrepreneurId": 0,
-      "nameActivity": "string",
-      "description": "string",
-      "timeDuration": 0,
-      "image": "string",
-      "cantPeople": 0,
-      "cost": 0
+      "nameActivity": "CHOCOLATADA SIDERAL",
+      "description": "ven a divertirte con la beba",
+      "timeDuration": 10h,
+      "image": "https://e.radio-grpp.io/xlarge/2022/12/06/315431_1357086.jpg",
+      "cantPeople": 100,
+      "cost": 10
     }
   ]
 }
