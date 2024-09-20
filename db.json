@@ -9,6 +9,16 @@
       "image": "https://e.radio-grpp.io/normal/2022/12/06/315431_1357086.jpg",
       "cantPeople": 100,
       "cost": 10
+    },
+    {
+      "Id": 1,
+      "entrepreneurId": 1,
+      "nameActivity": "CONFERENCIA TECNOLÓGICA 2024",
+      "description": "Participa en la conferencia más esperada del año sobre tecnología avanzada.",
+      "timeDuration": 120,
+      "image": "https://4kaudiovisual.pe/wp-content/uploads/2023/09/ALQUILER-DE-PANTALLAS-LED-PRA-CONFERENCIAS-EN-LIMA.jpg",
+      "cantPeople": 500,
+      "cost": 50
     }
   ]
 }
