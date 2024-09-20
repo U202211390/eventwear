@@ -10,7 +10,7 @@
   "cantPeople": 0,
   "cost": 0
 },
-{
+
   "Id": 1,
   "entrepreneurId": 1,
   "nameActivity": "string",
@@ -19,7 +19,7 @@
   "image": "string",
   "cantPeople": 0,
   "cost": 0
-}]
+]
   
 }
 
