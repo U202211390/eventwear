@@ -1,37 +1,10 @@
 {
-  "products": [
-    {
-      "id": "1",
-      "image": "https://raw.githubusercontent.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/feature/AdrianoSebastianCruzPalomino/src/assets/product-1.png",
-      "title": "Traje de la Pantera Rosa",
-      "description": "Confeccionado con telas de alta calidad y una atención meticulosa a los detalles, este traje garantiza un ajuste perfecto y una apariencia impecable.",
-      "price": 100,
-      "rating": "4/5"
-    },
-    {
-      "id": "2",
-      "image": "https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/blob/feature/AdrianoSebastianCruzPalomino/src/assets/product-2.png?raw=true",
-      "title": "Gafas de Esquí de Alto Rendimiento",
-      "description": "Estas gafas de esquí de alto rendimiento están diseñadas para ofrecer una visión clara y sin distorsiones en las condiciones más extremas.",
-      "price": 70,
-      "rating": "3,5/5"
-    },
-    {
-      "id": "3",
-      "image": "https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/blob/feature/AdrianoSebastianCruzPalomino/src/assets/product-3.png?raw=true",
-      "title": "Conjunto vestimenta de marinera norteña",
-      "description": "Este conjunto de vestimenta de marinera norteña incluye una falda, una blusa y un pañuelo. Está confeccionado con telas de alta calidad y una atención meticulosa a los detalles.",
-      "price": 100,
-      "rating": "4,5/5"
-    }
-  ],
-  "carts":[
-    {
-      "id": 1,
-      "title": "Gafas de Esquí de Alto Rendimiento",
-      "price": "70",
-      "image" : "https://i.ibb.co/W0QDCxn/image-27-2.png"
-    }
-  ]
-
+  "Id": 0,
+  "entrepreneurId": 0,
+  "nameActivity": "string",
+  "description": "string",
+  "timeDuration": 0,
+  "image": "string",
+  "cantPeople": 0,
+  "cost": 0
 }
