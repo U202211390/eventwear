@@ -1,25 +1,15 @@
 {
-  {
-   "posts": [
-  "Id": 0,
-  "entrepreneurId": 0,
-  "nameActivity": "string",
-  "description": "string",
-  "timeDuration": 0,
-  "image": "string",
-  "cantPeople": 0,
-  "cost": 0
-},
-
-  "Id": 1,
-  "entrepreneurId": 1,
-  "nameActivity": "string",
-  "description": "string",
-  "timeDuration": 0,
-  "image": "string",
-  "cantPeople": 0,
-  "cost": 0
-]
-  
+  "activities": [
+    {
+      "Id": 0,
+      "entrepreneurId": 0,
+      "nameActivity": "string",
+      "description": "string",
+      "timeDuration": 0,
+      "image": "string",
+      "cantPeople": 0,
+      "cost": 0
+    }
+  ]
 }
 
